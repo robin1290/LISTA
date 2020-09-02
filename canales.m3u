@@ -1,0 +1,80 @@
+#EXTM3U
+
+#EXTINF:-1 ,EL TRECE
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1599085323/ei/q8ZPX7OgHYKaxwTsy4DwCA/ip/2800%3Aa4%3A28d1%3A9200%3A7d34%3Abe3%3A6ed6%3A55c0/id/g-bnKYL7hFA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJqMyvQMno8ObBZYtkCnQ8aBR5Gk2LTRjxn8ITVluEDwAiA1ERqcI_CFXgDmGeRt8rXVZFCgv00l9hBwnJ4eBwhkew%3D%3D/file/index.m3u8
+
+
+#EXTINF:-1 ,AMERICA
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1599083485/ei/fb9PX-SSDYbGwwSQpJC4BQ/ip/2800%3Aa4%3A28d1%3A9200%3A7d34%3Abe3%3A6ed6%3A55c0/id/2Vyx4ee2Tss.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/uy/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMSI0zYhomUctIy_fvPws9sPOFMjzsS9CHESBDRH5OM-AiEAtfhc2k3dqlK-o3KaYuCOQ53zgEWB9WlkbffDqwDrgd8%3D/file/index.m3u8
+
+
+#EXTINF:-1 ,Canal 26
+
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+
+#EXTINF:-1 ,MUSIC TOP
+
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+
+#EXTINF:-1 ,AXN
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=1915
+
+
+#EXTINF:-1 ,MTV
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=26934
+
+
+#EXTINF:-1 ,MTV2
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=26944
+
+
+#EXTINF:-1 ,NATGEO WILD
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=26899
+
+
+#EXTINF:-1 ,FOX LIFE
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=1425
+
+
+#EXTINF:-1 ,DISCOVERY H&H
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=1079
+
+
+#EXTINF:-1 ,TNT
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=1503
+
+
+#EXTINF:-1 ,STUDIO UNIVERSAL
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=1925
+
+
+#EXTINF:-1 ,HBO FAMILY
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=1034
+
+
+#EXTINF:-1 ,HBO 2
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=52876
+
+
+#EXTINF:-1 ,HBO 1
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=1914
+
+
+#EXTINF:-1 ,E!
+
+http://tvpremiumhd.club/lista-gratuita/234001/tv/live.php?id=26913
